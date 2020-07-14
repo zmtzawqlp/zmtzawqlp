@@ -8,9 +8,9 @@
 
 * 📫 How to reach me: zmtzawqlp@live.com.
 
-* ☕️ Buy me a coffee if helps.
+* ☕️ Buy me a coffee if helps
 
-![img](http://zmtzawqlp.gitee.io/my_images/images/qrcode.png)
+<img src="http://zmtzawqlp.gitee.io/my_images/images/qrcode.png" width="80%" height="80%" />
 
 <!--
 **zmtzawqlp/zmtzawqlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
