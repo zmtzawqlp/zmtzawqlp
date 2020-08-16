@@ -8,13 +8,6 @@
 
 * 📫 How to reach me: zmtzawqlp@live.com.
 
-* ☕️ Buy me a coffee if helps
-
-<img src="http://zmtzawqlp.gitee.io/my_images/images/qrcode.png" width="80%" height="80%" />
-
-<!--
-**zmtzawqlp/zmtzawqlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
