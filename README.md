@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zmtzawqlp/zmtzawqlp/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zmtzawqlp/zmtzawqlp/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zmtzawqlp/zmtzawqlp/output/github-contribution-grid-snake.svg">
+</picture>
+
 ### Hi there 👋, I'm a Flutter developer in China.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zmtzawqlp&label=Views&color=blue&style=plastic&style=for-the-badge" alt="zmtzawqlp" /> </p>
 
