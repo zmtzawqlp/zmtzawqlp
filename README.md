@@ -15,6 +15,10 @@
 
 * 📫 How to reach me: zmtzawqlp@live.com.
 
+
 ![zmtzawqlp's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=zmtzawqlp&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
 
+![image](candies.png)
+
+![image](qrcode.png)
