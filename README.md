@@ -14,6 +14,10 @@
 * ✍🏻 Writing blogs at [juejin.im](https://juejin.im/user/5bdc1a32518825170b101080).
 
 * 📫 How to reach me: zmtzawqlp@live.com.
+  
+* FlutterCandies: ![FlutterCandies QQ 群](https://img.shields.io/badge/dynamic/yaml?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffluttercandies%2F.github%2Frefs%2Fheads%2Fmain%2Fdata.yml&query=%24.qq_group_number&label=QQ%E7%BE%A4&logo=qq&color=1DACE8)
+  
+* HarmonyCanides: ![HarmonyCanides QQ 群](https://img.shields.io/badge/dynamic/yaml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fharmonycandies%2F.github%2Frefs%2Fheads%2Fmain%2Fdata.yml&query=%24.qq_group_number&label=QQ%E7%BE%A4&logo=qq&color=1DACE8)
 
 
 ![zmtzawqlp's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=zmtzawqlp&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
@@ -21,4 +25,4 @@
 
 ![image](candies.png)
 
-![image](qrcode.png)
+
