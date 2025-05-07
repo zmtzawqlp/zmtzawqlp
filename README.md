@@ -11,7 +11,7 @@
 
 * 🌱 I'm glad to invite you to join our organization [FlutterCandies ](https://github.com/fluttercandies), do more for the Flutter community together.
 
-* ✍🏻 Writing blogs at [juejin.im](https://juejin.im/user/5bdc1a32518825170b101080).
+* ✍🏻 Writing blogs at [juejin](https://juejin.cn/user/5bdc1a32518825170b101080).
 
 * 📫 How to reach me: zmtzawqlp@live.com.
   
